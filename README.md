@@ -10,5 +10,17 @@ A codeforces visualizer for visualizing codeforces profile, compare profiles and
 
 Live : https://cfvisualizer.netlify.app/
 
+# Some Screenshots
+
+<div align="center">
+    <img src="/screenshots/1.png" width="400px" /> 
+    <img src="/screenshots/2.png" width="400px" />
+    <img src="/screenshots/3.png" width="400px" />
+    <img src="/screenshots/4.png" width="400px" />
+    <img src="/screenshots/5.png" width="400px" />
+</div>
+
+
+
 
 
