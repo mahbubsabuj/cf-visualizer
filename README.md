@@ -12,15 +12,8 @@ Live : https://cfvisualizer.netlify.app/
 
 # Some Screenshots
 
-<div>
-    <img src="/screenshots/1.png" width="400px" /> 
-    <img src="/screenshots/2.png" width="400px" />
-    <img src="/screenshots/3.png" width="400px" />
-    <img src="/screenshots/4.png" width="400px" />
-    <img src="/screenshots/5.png" width="400px" />
-</div>
-
-
-
-
-
+<img src="/screenshots/1.png" width="400px" /> 
+<img src="/screenshots/2.png" width="400px" />
+<img src="/screenshots/3.png" width="400px" />
+<img src="/screenshots/4.png" width="400px" />
+<img src="/screenshots/5.png" width="400px" />
